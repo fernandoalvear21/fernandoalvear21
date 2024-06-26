@@ -3,6 +3,13 @@
 
 #### Bienvenido al proyecto IT Guy
 ![https://www.instagram.com/theit.guy1/](./Banner_IT_Guy.png)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCB8Gzz4HHLXbyKzRbpxb5Jg)
+![GitHub followers](https://img.shields.io/github/followers/fernandoalvear21)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fernando-alvear/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/theit.guy1/)
+[![TikTok](https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white)](https://tiktok.com.com/@theit.guy1/)
+
+
 
 <!--
 **fernandoalvear21/fernandoalvear21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
