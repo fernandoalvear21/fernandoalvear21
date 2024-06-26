@@ -1,5 +1,8 @@
-# ![https://github.com/fernandoalvear21/](https://raw.githubusercontent.com/fernandoalvear21/fernandoalvear21/development/It_guy_8_bit.png) Hola, soy Fernando Alvear 👋
+# ![https://github.com/fernandoalvear21/](./It_guy_8_bit.png) Hola, soy Fernando Alvear 👋
 ### Ingeniero de sistemas especializado en la nube 💻
+
+#### Bienvenido al proyecto IT Guy
+![https://www.instagram.com/theit.guy1/](./Banner_IT_Guy.png)
 
 <!--
 **fernandoalvear21/fernandoalvear21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
