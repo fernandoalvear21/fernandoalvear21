@@ -1,4 +1,7 @@
-# ![https://github.com/fernandoalvear21](https://raw.githubsercontent.com/fernandoalvear21/fernandoalvear21/development/It_guy_8_bit.png) Hola, soy Fernando Alvear 👋
+# ![https://github.com/fernandoalvear21](https://github.com/fernandoalvear21/fernandoalvear21/blob/development/It_guy_8_bit.png) Hola, soy Fernando Alvear 👋
+
+# ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre es Brais Moure 👋
+### Freelance full-stack iOS & Android engineer
 
 <!--
 **fernandoalvear21/fernandoalvear21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
