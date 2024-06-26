@@ -1,4 +1,4 @@
-# ![https://github.com/fernandoalvear21](https://raw.githubsercontent.com/fernandoalvear21/fernandoalvear21/development/It guy 8 bit logo removebg.png) Hola, soy Fernando Alvear 👋
+# ![https://github.com/fernandoalvear21](https://raw.githubsercontent.com/fernandoalvear21/fernandoalvear21/development/It_guy_8_bit.png) Hola, soy Fernando Alvear 👋
 
 <!--
 **fernandoalvear21/fernandoalvear21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
