@@ -9,6 +9,12 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/theit.guy1/)
 [![TikTok](https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white)](https://tiktok.com/@theit.guy1/)
 
+Soy ingeniero en sistemas computacionales con más de 7 años de experiencia en el mundo corporativo. 
+
+He trabajado en distintas corporaciones atendiendo a usuarios y clientes de todo tipo, he creado este proyecto "The IT Guy" para asesorar a techies que quieran destacar en el mundo corporativo, porque más allá de las habilidades técnicas se necesita un set de habiliddaes blandas para que seas una persona de alto valor en la empresa. 
+En mis años de experiencia he desarrollado y puesto en práctica este set de habilidades y he sobresalido por encima del perfil estándar. 
+
+Acompañame en este viaje y que pases de ser el típico "Chico de IT" y seas un referente de valor para tu empresa. 🔝
 
 
 <!--
